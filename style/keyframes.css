@@ -1,0 +1,426 @@
+@keyframes text-animation {
+    1% {
+        content: 'D';
+    }
+
+    2% {
+        content: 'De';
+    }
+
+    3% {
+        content: 'Des';
+    }
+
+    4% {
+        content: 'Desi';
+    }
+
+    5% {
+        content: 'Desig';
+    }
+
+    6% {
+        content: 'Design';
+    }
+
+    7% {
+        content: 'Designe';
+    }
+
+    8% {
+        content: 'Designer';
+    }
+
+    9% {
+        content: 'Designer';
+        border-color: transparent
+    }
+
+    10% {
+        content: 'Designer';
+        border-color: white;
+    }
+
+    11% {
+        content: 'Designer';
+        border-color: transparent
+    }
+
+    12% {
+        content: 'Designer';
+        border-color: white;
+    }
+
+    13% {
+        content: 'Designer';
+        border-color: transparent
+    }
+
+    14% {
+        content: 'Designe';
+        border-color: white;
+
+    }
+
+    15% {
+        content: 'Design';
+    }
+
+    16% {
+        content: 'Desig';
+    }
+
+    17% {
+        content: 'Desi';
+    }
+
+    18% {
+        content: 'Des';
+    }
+
+    19% {
+        content: 'De';
+    }
+
+    20% {
+        content: 'Dev';
+    }
+
+    21% {
+        content: 'Deve';
+    }
+
+    22% {
+        content: 'Devel';
+    }
+
+    23% {
+        content: 'Develo';
+    }
+
+    24% {
+        content: 'Develop';
+    }
+
+    25% {
+        content: 'Develope';
+    }
+
+    26% {
+        content: 'Developer';
+    }
+
+    27% {
+        content: 'Developer';
+        border-color: transparent
+    }
+
+    28% {
+        content: 'Developer';
+        border-color: white;
+    }
+
+    29% {
+        content: 'Developer';
+        border-color: transparent
+    }
+
+    30% {
+        content: 'Developer';
+        border-color: white;
+    }
+
+    31% {
+        content: 'Developer';
+        border-color: transparent
+    }
+
+    32% {
+        content: 'Developer';
+        border-color: white;
+    }
+
+    33% {
+        content: 'Develope';
+    }
+
+    34% {
+        content: 'Develop';
+    }
+
+    35% {
+        content: 'Develo';
+    }
+
+    36% {
+        content: 'Devel';
+    }
+
+    37% {
+        content: 'Deve';
+    }
+
+    38% {
+        content: 'Dev';
+    }
+
+    39% {
+        content: 'De';
+    }
+
+    40% {
+        content: 'D';
+    }
+
+    41% {
+        content: 'D';
+    }
+
+    42% {
+        content: '';
+    }
+
+    43% {
+        content: 'F';
+    }
+
+    44% {
+        content: 'Fr';
+    }
+
+    45% {
+        content: 'Fre';
+    }
+
+    46% {
+        content: 'Free';
+    }
+
+    47% {
+        content: 'Freel';
+    }
+
+    48% {
+        content: 'Freela';
+    }
+
+    49% {
+        content: 'Freelan';
+    }
+
+    50% {
+        content: 'Freelanc';
+    }
+
+    51% {
+        content: 'Freelance';
+    }
+
+    52% {
+        content: 'Freelancer';
+    }
+
+    53% {
+        content: 'Freelancer';
+        border-color: transparent
+    }
+
+    54% {
+        content: 'Freelancer';
+        border-color: white;
+    }
+
+    55% {
+        content: 'Freelancer';
+        border-color: transparent
+    }
+
+    56% {
+        content: 'Freelancer';
+        border-color: white
+    }
+
+    57% {
+        content: 'Freelancer';
+        border-color: transparent
+    }
+
+    58% {
+        content: 'Freelance';
+        border-color: white
+    }
+
+    59% {
+        content: 'Freelanc';
+    }
+
+    60% {
+        content: 'Freelan';
+    }
+
+    61% {
+        content: 'Freela';
+    }
+
+    62% {
+        content: 'Freel';
+    }
+
+    63% {
+        content: 'Free';
+    }
+
+    64% {
+        content: 'Fre';
+    }
+
+    65% {
+        content: 'Fr';
+    }
+
+    66% {
+        content: 'F';
+    }
+
+    67% {
+        content: 'F';
+    }
+
+    68% {
+        content: '';
+    }
+
+    69% {
+        content: 'P';
+    }
+
+    70% {
+        content: 'Ph';
+    }
+
+    71% {
+        content: 'Pho';
+    }
+
+    72% {
+        content: 'Phot';
+    }
+
+    73% {
+        content: 'Photo';
+    }
+
+    74% {
+        content: 'Photog';
+    }
+
+    75% {
+        content: 'Photogr';
+    }
+
+    76% {
+        content: 'Photogra';
+    }
+
+    77% {
+        content: 'Photograp';
+    }
+
+    78% {
+        content: 'Photograph';
+    }
+
+    79% {
+        content: 'Photographe';
+    }
+
+    80% {
+        content: 'Photographer';
+    }
+
+    81% {
+        content: 'Photographer';
+        border-color: transparent
+    }
+
+    82% {
+        content: 'Photographer';
+        border-color: white
+    }
+
+    83% {
+        content: 'Photographer';
+        border-color: transparent
+    }
+
+    84% {
+        content: 'Photographer';
+        border-color: white
+    }
+
+    85% {
+        content: 'Photographer';
+        border-color: transparent
+    }
+
+    86% {
+        content: 'Photographe';
+        border-color: white
+    }
+
+    87% {
+        content: 'Photograph';
+    }
+
+    88% {
+        content: 'Photograp';
+    }
+
+    89% {
+        content: 'Photogra';
+    }
+
+    90% {
+        content: 'Photogr';
+    }
+
+    91% {
+        content: 'Photog';
+    }
+
+    92% {
+        content: 'Photo';
+    }
+
+    93% {
+        content: 'Phot';
+    }
+
+    94% {
+        content: 'Pho';
+    }
+
+    95% {
+        content: 'Ph';
+    }
+
+    96% {
+        content: 'P';
+    }
+
+    97% {
+        content: '';
+    }
+
+    98% {
+        content: '';
+    }
+
+    99% {
+        content: '';
+    }
+
+    100% {
+        content: '';
+    }
+}
